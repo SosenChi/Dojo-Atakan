@@ -1,2 +1,2 @@
-# Dojo-Atakan
-Do Jo
+# Ai Sensei Atakan
+
